@@ -1,1 +1,108 @@
-= Puzzle 
+= Puzzle
+
+== Kocaeli University Computer Engineering Department
+
+_Gurkan Gokdemir <https://github.com/gurkangokdemir[gurkangokdemir@outlook.com]>_
+
+_Kaan Girginer <https://github.com/gingerkaan[kaangirginer@icloud.com]>_
+
+== Abstract
+
+_This is a project that contains 4 x 4 blocks puzzle. User can easily upload their picture to the application._
+
+_We used Visual Studio environment with C#. First step was opening image from computer. Then we cut image to sixteen piece for adding to buttons as image._
+
+== Introduction
+
+Puzzle is one of the most entertaining games of our childhood. There was multiple project like this one. We wanted to re-create our childhood game with our pictures.
+
+== Information
+
+We used Visual Studio environment with C# language. There is one page for program startup. Then other one is for buttons. We created buttons with Windows Forms and all codes are under the button functions.
+
+We didn't created exe yet. But all developers can easily create it. 
+
+== Requirements
+
+*Puzzle*
+ works on Windows and requires one of the following implementations of 
+
+* Visual Studio 
+* C# Packages
+
+[CAUTION]
+====
+After the instaliation you can detect some bugs on the project. That project is the first version. 
+====
+
+== How to use
+
+When you run the program a screen appears which tells you your highest score. If it is your first time it says `Your highest score is = -1`. After that screen you are going to see another screen. Thats the screen you need to open your picture with clicking the `Open` button. This application doesn't contains any sample picture on it. 
+
+It mixes the parts automaticly. 
+
+On the right corner you can see your current score. You can click `Mixer` button to raise your starting point. A rigth part equals to 6.25p. So you can easily know how many parts are correct.
+
+Also you can click `Score` button to see your highest score. 
+
+[NOTE]
+====
+This game is single player only. So you can only see your own top score.
+====
+
+Every move that you make decrease your extra points. So be sure start with enogh points. 
+
+When you finish your game a popup appears that says you complated your puzzle and it gives your current score.
+
+Be sure to not click cheat button. Nobody likes cheaters. 
+ 
+== Contribution
+
+Here are some ways *you* can contribute:
+
+* by using prerelease (alpha, beta or preview) versions
+* by reporting bugs
+* by suggesting new features
+* by writing or editing documentation
+* by writing code with tests -- _No patch is too small._
+** fix typos
+** add comments
+** clean up inconsistent whitespace
+** write tests!
+* by refactoring code
+* by fixing {uri-issues}[issues]
+* by reviewing patches
+
+The {uri-contribute}[Contributing] guide provides information on how to create, style, and submit issues, feature requests, code, and documentation to the *Puzzle*
+ Project.
+
+== Results
+
+*Puzzle*
+ is developed to create your 4 x 4 puzzles with your pictures and play with it.
+But we can't do it without your feedback!
+We encourage you to ask questions and discuss any aspects of the project on the discussion list or on Twitter.
+
+Twitter:: https://twitter.com/guerkahn
+[@guerkahn] mention
+
+== License
+
+Copyright (C) 2014-2019 Gurkan Gokdemir and the individual contributors to Puzzle
+.
+Use of this software is granted under the terms of the MIT License.
+
+== Authors
+
+*Puzzle* is led by https://github.com/gurkangokdemir[Gurkan Gokdemir].
+The project was initiated in 2019 by https://github.com/gurkangokdemir[Gurkan Gokdemir].
+
+*Puzzle* was started by Kocaeli University Engineering Faculty Computer Engineering Department and has received contributions from by https://github.com/gingerkaan[Kaan Girginer].
+
+ifndef::env-site[]
+== References
+* https://stackoverflow.com/questions/35151067/algorithm-to-compare-two-images-in-c-sharp
+* https://stackoverflow.com/questions/1922040/how-to-resize-an-image-c-sharp
+
+* https://stackoverflow.com/questions/13625891/cut-an-image-into-9-pieces-c-sharp
+

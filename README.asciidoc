@@ -73,7 +73,7 @@ Here are some ways *you* can contribute:
 * by fixing
 * by reviewing patches
 
-The {uri-contribute}[Contributing] guide provides information on how to create, style, and submit issues, feature requests, code, and documentation to the *Puzzle*
+The guide provides information on how to create, style, and submit issues, feature requests, code, and documentation to the *Puzzle*
  Project.
 
 == Results

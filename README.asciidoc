@@ -70,7 +70,7 @@ Here are some ways *you* can contribute:
 ** clean up inconsistent whitespace
 ** write tests!
 * by refactoring code
-* by fixing {uri-issues}[issues]
+* by fixing
 * by reviewing patches
 
 The {uri-contribute}[Contributing] guide provides information on how to create, style, and submit issues, feature requests, code, and documentation to the *Puzzle*

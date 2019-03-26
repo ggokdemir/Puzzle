@@ -8,6 +8,8 @@ _Kaan Girginer <https://github.com/gingerkaan[kaangirginer@icloud.com]>_
 
 == Abstract
 
+image::game_screen.png[game_screen,200,200]
+
 _This is a project that contains 4 x 4 blocks puzzle. User can easily upload their picture to the application._
 
 _We used Visual Studio environment with C#. First step was opening image from computer. Then we cut image to sixteen piece for adding to buttons as image._
@@ -37,13 +39,21 @@ After the instaliation you can detect some bugs on the project. That project is 
 
 == How to use
 
+image::high_score.png[high_score,200,150]
+
 When you run the program a screen appears which tells you your highest score. If it is your first time it says `Your highest score is = -1`. After that screen you are going to see another screen. Thats the screen you need to open your picture with clicking the `Open` button. This application doesn't contains any sample picture on it. 
+
+image::load_screen.png[load_screen,200,200]
 
 It mixes the parts automaticly. 
 
 On the right corner you can see your current score. You can click `Mixer` button to raise your starting point. A rigth part equals to 6.25p. So you can easily know how many parts are correct.
 
+image::game_screen.png[game_screen,200,200]
+
 Also you can click `Score` button to see your highest score. 
+
+image::finish_screen.png[finish_screen,200,200]
 
 [NOTE]
 ====

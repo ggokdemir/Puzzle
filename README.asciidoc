@@ -1,6 +1,6 @@
 = Puzzle
 
-== Kocaeli University Computer Engineering Department
+== Engineering Faculty Computer Engineering Department
 
 _Gurkan Gokdemir <https://github.com/gurkangokdemir[gurkangokdemir@outlook.com]>_
 
